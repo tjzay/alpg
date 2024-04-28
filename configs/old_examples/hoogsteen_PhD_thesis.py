@@ -33,7 +33,7 @@ import writer as writer
 #import trianawriter as writer
 
 #Random seed
-seed = 42;
+seed = 42
 random.seed(seed)
 
 #In- and out files:
